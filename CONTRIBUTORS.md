@@ -86,3 +86,8 @@
 - Academic: CSE Undergraduate at SCET.
 - GitHub: [Mitesh2020](https://github.com/Mitesh2020)
 
+### Name: Sachin Upadhyay
+
+- Place: UUttarkhand, India
+- Academic: CSE Undergraduate at Graphic Era Hill University , Dehradun.
+- GitHub: [dev-AshishRanjan](https://github.com/SachinNinja)
